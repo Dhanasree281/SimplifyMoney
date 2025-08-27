@@ -35,6 +35,7 @@ Provide an **AI-powered backend assistant** to simplify learning and transacting
 
 ---
 
+
 ## 📂 Project Workflow  
 ```mermaid
 flowchart TD
@@ -46,7 +47,22 @@ flowchart TD
     F --> G[Insights & Future Integration with LLMs]
 
 ---
-Out of curiosity i just want to add fronted part to the assessement using AI tools.
-so the final result is this:
-https://claude.ai/public/artifacts/25234189-6fb9-4911-b50e-6b3df2cd7464
+---
+
+## 🎨 Frontend Exploration with AI Tools
+
+Out of curiosity, I also explored how the backend could look if extended with a **frontend interface** powered by AI tools.  
+Instead of only JSON API responses, the idea was to create a **chatbot-style web page** where users can:
+
+- Ask gold investment–related questions 💬  
+- Get AI-generated answers ✨  
+- Purchase digital gold via button clicks 🪙  
+- View their past transactions 📜  
+
+🚀 **Final Result (Demo):**  
+👉 [Click here to view the prototype](https://claude.ai/public/artifacts/25234189-6fb9-4911-b50e-6b3df2cd7464)  
+
+> ⚡ Note: This frontend was created just for experimentation using AI tools.  
+The actual **assessment deliverable** is the backend (FastAPI APIs), but this shows how the project could evolve into a **full-stack AI assistant**.
+
 
