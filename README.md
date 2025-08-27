@@ -35,7 +35,7 @@ Provide an **AI-powered backend assistant** to simplify learning and transacting
 
 ---
 ## Demo Video
-   **The Demo video of the actual project is attactched in above file:please go through it
+   **The Demo video of the actual project:https://simplifymoney-1.onrender.com
 
 ## 🎨 Frontend Exploration with AI Tools
 
