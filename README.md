@@ -44,12 +44,4 @@ flowchart TD
     D --> E[Save to Mock Database]
     E --> F[Transaction History API]
     F --> G[Insights & Future Integration with LLMs]
-⚡ Tech Stack
 
-Backend: FastAPI (Python)
-
-Database: In-memory / SQLite (mock DB)
-
-AI Logic: Rule-based (extendable to LLMs like OpenAI/Anthropic)
-
-Docs: Swagger UI, ReDoc
