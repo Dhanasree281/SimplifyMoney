@@ -45,3 +45,8 @@ flowchart TD
     E --> F[Transaction History API]
     F --> G[Insights & Future Integration with LLMs]
 
+---
+Out of curiosity i just want to add fronted part to the assessement using AI tools.
+so the final result is this:
+https://claude.ai/public/artifacts/25234189-6fb9-4911-b50e-6b3df2cd7464
+
