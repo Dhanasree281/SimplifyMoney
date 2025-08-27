@@ -34,7 +34,8 @@ Provide an **AI-powered backend assistant** to simplify learning and transacting
    - Swagger UI & ReDoc for easy testing  
 
 ---
-##The Demo video of the actual project is attactched in above file:please go through it
+## Demo Videos
+**The Demo video of the actual project is attactched in above file:please go through it
 
 ## 🎨 Frontend Exploration with AI Tools
 
