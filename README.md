@@ -44,7 +44,7 @@ flowchart TD
     D --> E[Save to Mock Database]
     E --> F[Transaction History API]
     F --> G[Insights & Future Integration with LLMs]
-#**⚡ Tech Stack**
+⚡ Tech Stack
 
 Backend: FastAPI (Python)
 
