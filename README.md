@@ -34,20 +34,7 @@ Provide an **AI-powered backend assistant** to simplify learning and transacting
    - Swagger UI & ReDoc for easy testing  
 
 ---
-
-
-## 📂 Project Workflow  
-```mermaid
-flowchart TD
-    A[User Query / API Request] --> B[FastAPI Backend]
-    B --> C[AI Logic: Detect Gold Query & Generate Fact]
-    C --> D[Purchase Simulation]
-    D --> E[Save to Mock Database]
-    E --> F[Transaction History API]
-    F --> G[Insights & Future Integration with LLMs]
-
----
----
+##The Demo video of the actual project is attactched in above file:please go through it
 
 ## 🎨 Frontend Exploration with AI Tools
 
@@ -62,7 +49,15 @@ Instead of only JSON API responses, the idea was to create a **chatbot-style web
 🚀 **Final Result (Demo):**  
 👉 [Click here to view the prototype](https://claude.ai/public/artifacts/25234189-6fb9-4911-b50e-6b3df2cd7464)  
 
-> ⚡ Note: This frontend was created just for experimentation using AI tools.  
-The actual **assessment deliverable** is the backend (FastAPI APIs), but this shows how the project could evolve into a **full-stack AI assistant**.
 
 
+
+## 📂 Project Workflow  
+```mermaid
+flowchart TD
+    A[User Query / API Request] --> B[FastAPI Backend]
+    B --> C[AI Logic: Detect Gold Query & Generate Fact]
+    C --> D[Purchase Simulation]
+    D --> E[Save to Mock Database]
+    E --> F[Transaction History API]
+    F --> G[Insights & Future Integration with LLMs]
